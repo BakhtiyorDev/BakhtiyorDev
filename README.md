@@ -33,4 +33,4 @@ I am a 2nd year undergraduate student from <a href="https://www.webster.edu/"><b
 <a href="https://bakhtiyordev.com/"><img alt="Website" src="https://img.shields.io/badge/Website-bakhtiyordev.com-blue?style=flat-square&logo=google-chrome"></a>
 <a href="https://www.linkedin.com/in/bakhtiyor-umarov-b980b01a3/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Bakhtiyor%20Umarov-blue?style=flat-square&logo=linkedin%22"></a>
 <a href="https://www.instagram.com/bakhtiyor.dev/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-bakhtiyor.dev-blue?style=flat-square&logo=instagram"></a>
-<a href="mailto:bakhhtiyordev@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-bakhtiyordev@gmail.com-blue?style=flat-square&logo=gmail"></a>
+<a href="mailto:bakhhtiyor.dev@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-bakhtiyordev@gmail.com-blue?style=flat-square&logo=gmail"></a>

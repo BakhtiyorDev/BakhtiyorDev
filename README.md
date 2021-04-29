@@ -13,8 +13,6 @@ I am a 2nd year undergraduate student from <a href="https://www.webster.edu/"><b
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
   ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap)
   ![Sass](https://img.shields.io/badge/-Sass-333333?style=flat&logo=Sass)
-  ![jQuery](https://img.shields.io/badge/-Jquery-333333?style=flat&logo=Jquery)
-  ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=React)
 
 - ⚙️ &nbsp;
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)

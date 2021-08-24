@@ -27,6 +27,7 @@ I am a 2nd year undergraduate student from <a href="https://www.webster.edu/"><b
   ![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=Figma)
   ![Photoshop](https://img.shields.io/badge/-Photoshop-333333?style=flat&logo=adobe-photoshop)
 
+<br>
 
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 

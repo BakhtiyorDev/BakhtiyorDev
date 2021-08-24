@@ -7,43 +7,25 @@ I am a 2nd year undergraduate student from <a href="https://www.webster.edu/"><b
 
 <br>
 
-<h3>Favorite Tech</h3>
+<h3> 🛠 &nbsp;Tech Stack</h3>
 
-> Tools, languages, and other things that I like to work with.
+- 🌐 &nbsp;
+  ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
+  ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
+  ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap)
+  ![Sass](https://img.shields.io/badge/-Sass-333333?style=flat&logo=Sass)
 
-
-<table align="center">
-  <tr>
-    <td align="center" width="96">
-      <a href="#bakhtiyor-tech">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1024px-Unofficial_Html_logo_2.svg.png" width="48" height="48" alt="JavaScript" />
-      </a>
-      <br>
-      JavaScript
-    </td>
-    <td align="center" width="96">
-      <a href="#bakhtiyor-tech">
-        <img src="https://cdn.worldvectorlogo.com/logos/bootstrap-4.svg" width="48" height="48" alt="Bootstrap" />
-      </a>
-      <br>
-      Bootstrap
-    </td>
-    <td align="center" width="96">
-      <a href="#bakhtiyor-tech" >
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1200px-Git_icon.svg.png" width="48" height="48" alt="Git" />
-      </a>
-      <br>
-      Git
-    </td>
-    <td align="center" width="96">
-      <a href="#bakhtiyor-tech">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/3/33/Html-logo.svg" width="45" height="45" alt="Figma" />
-      </a>
-      <br>
-      Figma
-    </td>
-  </tr>
-</table>
+- ⚙️ &nbsp;
+  ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
+  ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
+  
+- 🔧 &nbsp;
+  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
+  
+- 🖥 &nbsp;
+  ![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=Figma)
+  ![Photoshop](https://img.shields.io/badge/-Photoshop-333333?style=flat&logo=adobe-photoshop)
 
 
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>

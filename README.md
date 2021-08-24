@@ -15,29 +15,29 @@ I am a 2nd year undergraduate student from <a href="https://www.webster.edu/"><b
 <table align="center">
   <tr>
     <td align="center" width="96">
-      <a href="#suhailkakar-tech">
+      <a href="#bakhtiyor-tech">
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1024px-Unofficial_Html_logo_2.svg.png" width="48" height="48" alt="JavaScript" />
       </a>
       <br>
       JavaScript
     </td>
     <td align="center" width="96">
-      <a href="#suhailkakar-tech">
+      <a href="#bakhtiyor-tech">
         <img src="https://cdn.worldvectorlogo.com/logos/bootstrap-4.svg" width="48" height="48" alt="Bootstrap" />
       </a>
       <br>
       Bootstrap
     </td>
     <td align="center" width="96">
-      <a href="#suhailkakar-tech" >
+      <a href="#bakhtiyor-tech" >
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1200px-Git_icon.svg.png" width="48" height="48" alt="Git" />
       </a>
       <br>
       Git
     </td>
     <td align="center" width="96">
-      <a href="#suhailkakar-tech">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg" width="45" height="45" alt="Figma" />
+      <a href="#bakhtiyor-tech">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/3/33/Html-logo.svg" width="45" height="45" alt="Figma" />
       </a>
       <br>
       Figma

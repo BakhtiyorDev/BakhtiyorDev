@@ -7,7 +7,7 @@ I am a 2nd year undergraduate student from <a href="https://www.webster.edu/"><b
 
 <br>
 
-<h2 align="left" id="suhailkakar-tech">Favorite Tech</h2>
+<h3>Favorite Tech</h3>
 
 > Tools, languages, and other things that I like to work with.
 
@@ -16,7 +16,7 @@ I am a 2nd year undergraduate student from <a href="https://www.webster.edu/"><b
   <tr>
     <td align="center" width="96">
       <a href="#suhailkakar-tech">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1024px-Unofficial_JavaScript_logo_2.svg.png" width="48" height="48" alt="JavaScript" />
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1024px-Unofficial_Html_logo_2.svg.png" width="48" height="48" alt="JavaScript" />
       </a>
       <br>
       JavaScript

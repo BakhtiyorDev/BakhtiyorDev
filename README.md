@@ -1,4 +1,3 @@
-### Hi there 👋
 ### <img src="https://github.com/Shiv-sharma-111/Shiv-sharma-111/blob/master/Assets/Hi.gif" width="29px"> Hello World!&nbsp;<img src="https://github.com/Shiv-sharma-111/Shiv-sharma-111/blob/master/Assets/Earth.gif" width="24px">
 
 
